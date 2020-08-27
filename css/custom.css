@@ -2,3 +2,7 @@ body{
     padding-top: 70px;
     padding-bottom: 20px;
 }
+
+p{
+    font-family: 'Open Sans', sans-serif;
+}
